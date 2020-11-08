@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm ITTD 👋
+
+- 🌱 I’m currently learning Linux,C,Java,Python,Go...
 
 <!--
 **ittd/ittd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
